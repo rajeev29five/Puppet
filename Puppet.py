@@ -10,7 +10,6 @@ import cv2
 import numpy as np
 import argparse
 import pyautogui
-from threadedWebCam.fps import *
 #from pymouse import PyMouse
 import math
 
