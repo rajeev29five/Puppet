@@ -1,5 +1,5 @@
 # Avoid Using PyAutoGui as much as you can.(It's slooooooooooooow)
-
+#good work
 from collections import deque
 import os
 from Xlib.display import Display
